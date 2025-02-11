@@ -1,0 +1,39 @@
+table{
+    border: 1px solid #000
+    border-collapse: collapse;
+    width: 1000px;
+    height: 200px;
+    margin: 0 auto;
+}
+th,td{
+    border: 1px solid #000;
+    font-size: 20px;
+    text-transform: capitalize;
+  
+
+}
+    
+h1{
+    color: blue;
+    text-align: center;
+}
+hr{
+    width: 1400px;
+}
+img{
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+}
+a{
+    display: flex;
+    margin: 0 auto;
+}
+.text{
+    background-color: aqua;
+}
+.container{
+    text-align: center;
+    
+}
+
